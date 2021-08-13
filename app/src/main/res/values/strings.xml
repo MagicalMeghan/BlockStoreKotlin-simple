@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Block Store App</string>
+    <string name="calling">Calling…</string>
+    <string name="retrievebytes">Retrieve Bytes</string>
+    <string name="storebytes">Store Bytes</string>
+    <string name="bytes">Bytes</string>
+    <string name="argument_for_edit_bytes">Data to store</string>
+</resources>
