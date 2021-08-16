@@ -22,7 +22,6 @@
         android:id="@+id/button_store_bytes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="onStoreBytesButtonClick"
         android:text="@string/storebytes" />
 
     <Button
@@ -30,7 +29,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
-        android:onClick="onRetrieveBytesButtonClick"
         android:text="@string/retrievebytes" />
 
     <TextView

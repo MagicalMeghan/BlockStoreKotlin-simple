@@ -4,5 +4,6 @@
     <string name="retrievebytes">Retrieve Bytes</string>
     <string name="storebytes">Store Bytes</string>
     <string name="bytes">Bytes</string>
+    <string name="retrieveddata">Retrieved Data:</string>
     <string name="argument_for_edit_bytes">Data to store</string>
 </resources>
